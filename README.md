@@ -2,8 +2,7 @@
 
 - 💻 Ciência da Computação [1/8]  
 - 🎨 Artista  
-- 🧩 Animador (Desenho)  
-- 🎮 Futuro Desenvolvedor de Jogos  
+- 🧩 Animador (Desenho)   
 
 ---
 
